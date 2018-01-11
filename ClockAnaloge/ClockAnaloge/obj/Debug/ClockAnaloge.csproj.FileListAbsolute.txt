@@ -1,0 +1,31 @@
+\\stor01\gebruikersdata\qoevering\documents\visual studio 2013\Projects\ClockAnaloge\ClockAnaloge\bin\Debug\ClockAnaloge.exe.config
+\\stor01\gebruikersdata\qoevering\documents\visual studio 2013\Projects\ClockAnaloge\ClockAnaloge\bin\Debug\ClockAnaloge.exe
+\\stor01\gebruikersdata\qoevering\documents\visual studio 2013\Projects\ClockAnaloge\ClockAnaloge\bin\Debug\ClockAnaloge.pdb
+\\stor01\gebruikersdata\qoevering\documents\visual studio 2013\Projects\ClockAnaloge\ClockAnaloge\obj\Debug\ClockAnaloge.AnalogeKlok.resources
+\\stor01\gebruikersdata\qoevering\documents\visual studio 2013\Projects\ClockAnaloge\ClockAnaloge\obj\Debug\ClockAnaloge.Properties.Resources.resources
+\\stor01\gebruikersdata\qoevering\documents\visual studio 2013\Projects\ClockAnaloge\ClockAnaloge\obj\Debug\ClockAnaloge.csproj.GenerateResource.Cache
+\\stor01\gebruikersdata\qoevering\documents\visual studio 2013\Projects\ClockAnaloge\ClockAnaloge\obj\Debug\ClockAnaloge.exe
+\\stor01\gebruikersdata\qoevering\documents\visual studio 2013\Projects\ClockAnaloge\ClockAnaloge\obj\Debug\ClockAnaloge.pdb
+\\stor01\gebruikersdata\qoevering\documents\visual studio 2013\Projects\ClockAnaloge\ClockAnaloge\obj\Debug\ClockAnaloge.csprojResolveAssemblyReference.cache
+H:\Documents\Visual Studio 2013\Projects\ClockAnaloge\ClockAnaloge\bin\Debug\ClockAnaloge.exe.config
+H:\Documents\Visual Studio 2013\Projects\ClockAnaloge\ClockAnaloge\obj\Debug\ClockAnaloge.exe
+H:\Documents\Visual Studio 2013\Projects\ClockAnaloge\ClockAnaloge\obj\Debug\ClockAnaloge.pdb
+H:\Documents\Visual Studio 2013\Projects\ClockAnaloge\ClockAnaloge\bin\Debug\ClockAnaloge.exe
+H:\Documents\Visual Studio 2013\Projects\ClockAnaloge\ClockAnaloge\bin\Debug\ClockAnaloge.pdb
+H:\Documents\Visual Studio 2013\Projects\ClockAnaloge\ClockAnaloge\obj\Debug\ClockAnaloge.csprojResolveAssemblyReference.cache
+H:\Documents\Visual Studio 2013\Projects\ClockAnaloge\ClockAnaloge\obj\Debug\ClockAnaloge.AnalogeKlok.resources
+H:\Documents\Visual Studio 2013\Projects\ClockAnaloge\ClockAnaloge\obj\Debug\ClockAnaloge.Properties.Resources.resources
+H:\Documents\Visual Studio 2013\Projects\ClockAnaloge\ClockAnaloge\obj\Debug\ClockAnaloge.csproj.GenerateResource.Cache
+C:\Users\qoeve\Documents\ClockAnaloge\ClockAnaloge\bin\Debug\ClockAnaloge.exe.config
+C:\Users\qoeve\Documents\ClockAnaloge\ClockAnaloge\bin\Debug\ClockAnaloge.exe
+C:\Users\qoeve\Documents\ClockAnaloge\ClockAnaloge\bin\Debug\ClockAnaloge.pdb
+C:\Users\qoeve\Documents\ClockAnaloge\ClockAnaloge\obj\Debug\ClockAnaloge.csprojResolveAssemblyReference.cache
+C:\Users\qoeve\Documents\ClockAnaloge\ClockAnaloge\obj\Debug\ClockAnaloge.AnalogeKlok.resources
+C:\Users\qoeve\Documents\ClockAnaloge\ClockAnaloge\obj\Debug\ClockAnaloge.Properties.Resources.resources
+C:\Users\qoeve\Documents\ClockAnaloge\ClockAnaloge\obj\Debug\ClockAnaloge.csproj.GenerateResource.Cache
+C:\Users\qoeve\Documents\ClockAnaloge\ClockAnaloge\obj\Debug\ClockAnaloge.csproj.CoreCompileInputs.cache
+C:\Users\qoeve\Documents\ClockAnaloge\ClockAnaloge\obj\Debug\ClockAnaloge.exe
+C:\Users\qoeve\Documents\ClockAnaloge\ClockAnaloge\obj\Debug\ClockAnaloge.pdb
+E:\programmeren\2017_Projects\ClockAnaloge\ClockAnaloge\bin\Debug\ClockAnaloge.exe.config
+E:\programmeren\2017_Projects\ClockAnaloge\ClockAnaloge\obj\Debug\ClockAnaloge.exe
+E:\programmeren\2017_Projects\ClockAnaloge\ClockAnaloge\obj\Debug\ClockAnaloge.pdb
